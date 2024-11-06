@@ -1,0 +1,271 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: antiquewhite;
+    border: 0px;
+    margin: 0px;
+    
+
+}
+
+header{
+
+    background: url("https://i.pinimg.com/564x/fe/11/f2/fe11f20abb61277786b17bd985e4dfa8.jpg" );
+   background-size: 100% 40%;
+   background-position: center;
+    background-attachment: fixed;
+    height: 150px;
+    width:100% ;
+    justify-content: left;
+    align-items: center;
+    
+    background-color: rgb(108, 66, 66);
+   
+    
+}
+#title1{
+    
+    padding: 30px 500px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+float:center;
+}
+
+
+#navegacion{
+    background-color: rgb(115, 67, 67);
+    height: 43px;
+    width:100% ;
+    display: flex;
+ color: rgb(0, 0, 0);
+ 
+    
+}
+#nav1{
+    
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: rgb(106, 70, 70);
+   
+    
+ 
+}
+
+#nav{
+    background-color: rgb(115, 75, 75); ;
+    float: left;
+    color: white;
+    text-align: center;
+    
+    
+
+    
+   
+    
+
+}
+#nav a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(96, 54, 54);
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 12px 22px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#nav a:hover{
+    color: rgb(251, 251, 251);
+    background-color: rgb(123, 79, 79);
+}
+
+#titulo1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(64, 36, 36);
+    padding: 20px;
+    border: 3px solid rgb(100, 60, 60);
+    border-radius: 6px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 6px;
+}
+
+main{
+    display: block;
+}
+#titulo1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+#div{
+    background-color: rgb(163, 119, 119);
+    margin-left: 20px;
+    margin-right: 600px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+#titulo2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7px;
+    margin-top: 6px;
+}
+
+#menu{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding: 6px;
+
+}
+#item{
+    text-decoration: none;
+    list-style: none;
+    padding: 6px;
+
+}
+#item a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+#item a :hover{
+    color: white;
+}
+#img1{
+    float: center;
+    width: 330px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 900px;
+}
+#div2{
+    margin-top: 100px;
+
+}
+#titulo3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 42, 42);
+    margin-left: 20px;
+}
+
+
+
+#p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 3px;
+    margin-left: 20px;
+    margin-right: 420px;
+    margin-top: 8px;
+
+}
+#img2{
+    margin-left: 0px;
+    width: 350px;
+    height: 340px;
+    margin-top: 20px;
+
+}
+#titulo4{
+    margin-top: 80px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 42, 42);
+}
+#p2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 3px;
+    margin-left: 20px;
+    margin-right: 420px;
+    margin-top: 8px;
+
+}
+#p2 img{
+    display: inline-block;
+}
+#img3{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#subtitulo1{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+
+}
+#p3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 3px;
+    margin-left: 20px;
+    margin-right: 420px;
+    margin-top: 8px;
+    
+
+}
+#titulo5{
+    margin-top: 80px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 42, 42); 
+}
+#titulos{
+    margin-top: 80px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 42, 42); 
+}
+#textos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 3px;
+    margin-left: 20px;
+    margin-right: 420px;
+    margin-top: 8px;
+}
+#img4{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 800px;
+}
+#footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(95, 56, 56);
+    margin-top: 80px;
+    display: block;
+
+}
+#titulo6{
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+
+input{
+    margin: 3px;
+   padding: 8px;
+    margin-left: 20px;
+    border: 2px solid black;
+    color: black;
+    background-color: rgb(104, 71, 71);
+    float: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+    
+}
+input:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(162, 122, 122);
+}
